@@ -12,6 +12,13 @@ Currently available
 
 The following builds are currently available. 
 
+**/PythonDotNet202_py26_net2_x64**
+
+* Python for .NET v2.0.2
+* 64-bit DLLs 
+* built for the .NET 2.0 Framework
+* Python 2.6.5
+
 **/PythonDotNet202_py27_net4_x64**
 
 * Python for .NET v2.0.2
