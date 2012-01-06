@@ -36,7 +36,7 @@ The following builds are currently available.
 Installation
 ------------
 
-Copy the three files in each folder to the DLLs folder in the Python installation e.g. C:\Python27\DLLs
+Copy the clr.pyd and Python.Runtime.dll files in each folder to the DLLs folder in the Python installation e.g. C:\Python27\DLLs
 Test the files work correctly in IDLE using the following statements: 
 
 	>>> import clr
