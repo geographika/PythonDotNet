@@ -36,12 +36,16 @@ The following builds are currently available.
 Installation
 ------------
 
-Copy the clr.pyd and Python.Runtime.dll files in each folder to the DLLs folder in the Python installation e.g. C:\Python27\DLLs
-Test the files work correctly in IDLE using the following statements: 
+Copy the clr.pyd and Python.Runtime.dll files in each folder to the DLLs folder in the Python installation e.g. C:\Python27\DLLs. Test the files work correctly in IDLE using the following statements: 
 
 	>>> import clr
 	>>> import System
 	>>> print System.Environment.Version
 	4.0.30319.239
+
+For the .NET 2.0 versions this will be:
+
+	>>> print System.Environment.Version
+	2.0.50727.5448
 
 See http://pythonnet.sourceforge.net/readme.html#installation for full details
