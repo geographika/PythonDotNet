@@ -15,7 +15,7 @@ Currently available
 
 The following builds are currently available. 
 
-**/PythonDotNet202_py27_net4_x64**
+**/PythonDotNet202_py27_net4_x64_Windows2012**
 
 * Python for .NET v2.0.2
 * 64-bit DLLs 
