@@ -5,12 +5,23 @@ This repository contains some compiled versions of the excellent Python for .NET
 
 Official releases can be downloaded from http://sourceforge.net/projects/pythonnet/files/
 
-Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. Using this package you can script .NET applications or build entire applications in Python, using .NET services and components written in any language that targets the CLR (Managed C++, C#, VB, JScript). 
+**Update 12/2014** - the official project is now available on GitHub at https://github.com/pythonnet/pythonnet
+
+Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. 
+Using this package you can script .NET applications or build entire applications in Python, using .NET services and components written in any language that targets the CLR (Managed C++, C#, VB, JScript). 
 
 Currently available
 -------------------
 
 The following builds are currently available. 
+
+**/PythonDotNet202_py27_net4_x64**
+
+* Python for .NET v2.0.2
+* 64-bit DLLs 
+* built for the .NET 4.0 Framework
+* Compatible with Windows Server 2012 (and likely Windows 8)
+* Python 2.7.X
 
 **/PythonDotNet202_py26_net2_x64**
 
